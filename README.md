@@ -34,15 +34,15 @@ Please note that the user interface is currently in Lithuanian only. Here are so
 5. You can check tasks as done, edit or delete them using the buttons next to each task.
 
 ### 💻 Technologies Used:
-**HTML**: Structuring the application.
-**CSS**: Styling the UI.
-**JavaScript**: Handling functionality and interactivity.
-**LocalStorage**: Saving tasks persistently.
+- **HTML**: Structuring the application.
+- **CSS**: Styling the UI.
+- **JavaScript**: Handling functionality and interactivity.
+- **LocalStorage**: Saving tasks persistently.
 
 ### 🚀 Future Improvements
-Add other languages
-Add more customization options (e.g., colors, categories).
-Add drag-and-drop functionality for task reordering.
+- Add other languages
+- Add more customization options (e.g., colors, categories).
+- Add drag-and-drop functionality for task reordering.
 
 ### 📝 License
 This project is open-source and free to use.
