@@ -11,6 +11,9 @@ Welcome to the ToDo List project! This is a simple and interactive web applicati
 ### 🌍 Interface:
 Please note that the user interface is currently in Lithuanian only. Here are some key elements:
 
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/9d374bd8-7033-4a73-ac44-e3055b4970b0" />
+
+
 - **Darbų sąrašas** – To-Do List
 - **Įveskite užduotį** – Enter a task
 - **Pasirinkite kuriai dienai norite priskirti** – Select the day to assign the task
