@@ -1,7 +1,6 @@
 # ToDo List
 
-Welcome to the ToDo List project! This is a simple and interactive web application where you can manage your tasks. 
-You can add, edit, delete tasks, and assign them to specific days of the week. 
+Welcome to the ToDo List project! This is a simple and interactive web application where you can manage your daily tasks. 
 
 ### 📌 Features:
 - Add a new task with a description
